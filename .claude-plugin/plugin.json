@@ -1,0 +1,16 @@
+{
+  "name": "intersense",
+  "version": "0.1.0",
+  "description": "Domain detection — classifies projects by signals (directories, manifests, dependencies, keywords) into domains for review and research targeting",
+  "author": {
+    "name": "MK",
+    "email": "mistakeknot@vibeguider.org"
+  },
+  "repository": "https://github.com/mistakeknot/intersense",
+  "license": "MIT",
+  "keywords": [
+    "domain-detection",
+    "classification",
+    "project-analysis"
+  ]
+}
