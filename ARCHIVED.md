@@ -1,6 +1,6 @@
 # intersense — ARCHIVED
 
-**Archived 2026-03-26.** Domain detection unified into interflux's LLM-based classification (flux-drive Step 1.0.1). See Demarch-1qjs, Demarch-goqc.
+**Archived 2026-03-26.** Domain detection unified into interflux's LLM-based classification (flux-drive Step 1.0.1). See Sylveste-1qjs, Sylveste-goqc.
 
 ## What moved where
 
